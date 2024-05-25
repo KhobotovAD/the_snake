@@ -10,7 +10,7 @@
 1. Клонирование репозитория
 
 ```
-git clone https://github.com/StsdevkzCode/the_snake.git
+git clone https://github.com/KhobotovAD/the_snake.git
 ```
 
 2. Переход в директорию the_snake
